@@ -23,7 +23,7 @@ Just provide a URL (e.g., from Wikipedia), and ask your question. The bot will:
 
 🛠️ Features
 
-✅ Ask questions about any anime by just pasting a URL  
+✅ Ask questions about any article by just pasting a URL  
 ✅ Combines web search and page scraping for better context  
 ✅ Accurate, bullet-pointed responses with source references  
 ✅ User-friendly UI with zero coding required  
