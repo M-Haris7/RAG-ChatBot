@@ -57,7 +57,7 @@ Just provide a URL (e.g., from Wikipedia), and ask your question. The bot will:
 1. Clone the repo
    git clone https://github.com/M-Haris7/RAG-ChatBot.git
    
-   cd AI-Anime-Chatbot-with-RAG
+   cd <your_project_file>
 
 3. Install dependencies
    pip install -r requirements.txt
@@ -71,12 +71,18 @@ Just provide a URL (e.g., from Wikipedia), and ask your question. The bot will:
 
 💡 Example Usage
 
-🔗 URL: https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood  
-❓ Question: "Who are the main characters and their powers?"  
+🔗 URL: https://en.wikipedia.org/wiki/Attack_on_Titan_(TV_series)
+❓ Question: "What are the themes of this anime?"  
 ✅ Response:
-- Edward Elric is a skilled alchemist who lost his arm and leg in a failed transmutation. [RAG]
-- Alphonse Elric is Edward's brother, whose soul is bound to a suit of armor. [RAG]
-- Roy Mustang is a Flame Alchemist and a key figure in the military. [Search]
+The anime "Attack on Titan" has several themes, including:
+-Action [Source: RAG]
+-Dark fantasy [Source: RAG]
+-Post-apocalyptic [Source: RAG]
+The anime also explores sociopolitical commentary and depth, making allusions to historical crises such as the Holocaust [Source: RAG]
+However, it has been noted that the anime does not take a clear stance on these issues [Source: RAG]
+The themes of freedom and the cost of freedom are also present, with the song "Jiyū no Daishō" (lit. "Cost of Freedom") by Linked Horizon being featured in the anime [Source: RAG]
+Other themes present in the anime include the human condition, survival, and the struggle against oppressive forces [Source: RAG]
+Note: The information about the themes of the human condition, survival, and the struggle against oppressive forces is not explicitly mentioned in the provided context, but it can be inferred based on the genre and plot of the anime. [Source: RAG]
 
 
 
