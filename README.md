@@ -55,7 +55,7 @@ Just provide a URL (e.g., from Wikipedia), and ask your question. The bot will:
 🧑‍💻 Getting Started
 
 1. Clone the repo
-   git clone https://github.com/DataScientist00/AI-Anime-Chatbot-with-RAG.git
+   git clone https://github.com/M-Haris7/RAG-ChatBot.git
    
    cd AI-Anime-Chatbot-with-RAG
 
