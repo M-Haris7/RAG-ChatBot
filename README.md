@@ -5,7 +5,7 @@ RAG-ChatBot is a Retrieval-Augmented Generation (RAG) chatbot application that p
 
 
 Just provide a URL (e.g., from Wikipedia), and ask your question. The bot will:
-- Scrape and chunk data from the anime webpage.
+- Scrape and chunk data from any webpage.
 - Search the web using DuckDuckGo for real-time info.
 - Use both sources to generate an accurate, LLM-based answer.
 
